@@ -6,4 +6,4 @@ https://www.mobileread.com/forums/showthread.php?t=36503
 
 Wrap lines, e.g in vim
 
-`g/^/norm gww`
+`:g/^/norm gww`
