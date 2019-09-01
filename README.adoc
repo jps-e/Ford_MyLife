@@ -4,3 +4,6 @@ https://www.mobileread.com/forums/showthread.php?t=36503
 
 `ebook-convert "Ford, Henry - My Life and Work.epub" Ford_MyLife.txt`
 
+Wrap lines, e.g in vim
+
+`g/^/norm gww`
