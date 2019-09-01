@@ -554,7 +554,7 @@ the subjects of these chapters.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -873,7 +873,7 @@ further to test out the design and material on the road.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -1272,7 +1272,7 @@ the work in the best possible way.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -1823,7 +1823,7 @@ and put into fabrication the kind of car that I wanted to build.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -2219,7 +2219,7 @@ and more of the car.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -2625,7 +2625,7 @@ day!
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -2981,7 +2981,7 @@ always put all of mind and will into even the most trivial of tasks.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -3372,7 +3372,7 @@ Industry needs not exact a human toll.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -3810,7 +3810,7 @@ Without changing the principle we have changed the method of payment.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -4100,7 +4100,7 @@ the practical application of the principles of service and finance.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -4552,7 +4552,7 @@ And all of this can always be done.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -4924,7 +4924,7 @@ inside than from the outside.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -5373,7 +5373,7 @@ Let us see if a beginning toward a better method cannot be made.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -5696,7 +5696,7 @@ We are not fully serving.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -6093,7 +6093,7 @@ we have had in manufacturing during the last twenty.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -6548,7 +6548,7 @@ coddling. It is a drug. Stand up and stand out; let weaklings take charity.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -6875,7 +6875,7 @@ conditions why discuss the railroads as a business? Or as a service?
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -7062,7 +7062,7 @@ gypsied through the Adirondacks and again through the Alleghenies, heading
 southward. The trips were good fun—except that they began to attract too
 much attention.
 
-* * * * *
++++*+++ * * * *
 
 To-day I am more opposed to war than ever I was, and I think the people of the
 world know—even if the politicians do not—that war never settles
@@ -7261,7 +7261,7 @@ new product.
 
 With the Armistice, we at once dropped the war and went back to peace.
 
-* * * * *
++++*+++ * * * *
 
 An able man is a man who can do things, and his ability to do things is
 dependent on what he has in him. What he has in him depends on what he started
@@ -7343,7 +7343,7 @@ may be quite rusty on many things that inhabit the realm of print, but he is a
 learned man just the same. When a man is master of his own sphere, whatever it
 may be, he has won his degree—he has entered the realm of wisdom.
 
-* * * * *
++++*+++ * * * *
 
 The work which we describe as Studies in the Jewish Question, and which is
 variously described by antagonists as "the Jewish campaign," "the attack on the
@@ -7410,7 +7410,7 @@ faces and criticize them behind their backs.
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -7804,7 +7804,7 @@ Caruso's gifts have still remained his own?
 
 
 
-* * *
++++*+++ * *
 
 
 
@@ -7902,7 +7902,7 @@ disks in one's purse—is due only to lack of production. And lack of
 production is due only too often to lack of knowledge of how and what to
 produce.
 
-* * * * *
++++*+++ * * * *
 
 This much we must believe as a starting point:
 
@@ -7918,7 +7918,7 @@ That regardless of the frailties of human nature, our economic system can be so
 adjusted that selfishness, although perhaps not abolished, can be robbed of
 power to work serious economic injustice.
 
-* * * * *
++++*+++ * * * *
 
 The business of life is easy or hard according to the skill or the lack of
 skill displayed in production and distribution. It has been thought that
@@ -7936,7 +7936,7 @@ little while. Some day the ethics of business will be universally recognized,
 and in that day business will be seen to be the oldest and most useful of all
 the professions.
 
-* * * * *
++++*+++ * * * *
 
 All that the Ford industries have done—all that I have done—is to
 endeavour to evidence by works that service comes before profit and that the
@@ -8021,7 +8021,7 @@ transforming those materials into a consumable product and distributing it to
 the consumer. Gambling, speculating, and sharp dealing tend only to clog this
 progression.
 
-* * * * *
++++*+++ * * * *
 
 We must have production, but it is the spirit behind it that counts most. That
 kind of production which is a service inevitably follows a real desire to be of
@@ -8059,7 +8059,7 @@ methods of production. It is moved simply by the desire to crowd out others and
 monopolize the market for the sake of the money returns. That being
 accomplished, it always substitutes a product of inferior quality.
 
-* * * * *
++++*+++ * * * *
 
 Freeing ourselves from the petty sort of destructive competition frees us from
 many set notions. We are too closely tied to old methods and single, one-way
@@ -8116,7 +8116,7 @@ this place or that, but there is always something to do. It is this fact which
 should urge us to such an organization of ourselves that this "something to be
 done" may get done, and unemployment reduced to a minimum.
 
-* * * * *
++++*+++ * * * *
 
 Every advance begins in a small way and with the individual. The mass can be no
 better than the sum of the individuals. Advancement begins within the man
@@ -8161,7 +8161,7 @@ field that beckons us—the abolition of monotony, and in trying to
 accomplish that we shall doubtless discover other changes that will have to be
 made in our system.
 
-* * * * *
++++*+++ * * * *
 
 The opportunity to work is now greater than ever it was. The opportunity to
 advance is greater. It is true that the young man who enters industry to-day
@@ -8209,7 +8209,7 @@ one seeks in business, but sound, substantial dependability. Big enterprises of
 necessity move slowly and cautiously. The young man with ambition ought to take
 a long look ahead and leave an ample margin of time for things to happen.
 
-* * * * *
++++*+++ * * * *
 
 A great many things are going to change. We shall learn to be masters rather
 than servants of Nature. With all our fancied skill we still depend largely on
@@ -8224,7 +8224,7 @@ metals—we have scarcely touched the uses of cotton. Better wood can be made
 than is grown. The spirit of true service will create for us. We have only each
 of us to do our parts sincerely.
 
-* * * * *
++++*+++ * * * *
 
 Everything is possible ... "faith is the substance of things hoped for, the
 evidence of things not seen."
@@ -8237,5 +8237,5 @@ THE BOOK ENDS
 
 
 
-* * *
++++*+++ * *
 
