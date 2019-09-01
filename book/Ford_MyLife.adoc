@@ -1,9 +1,11 @@
-My Life and Work
+= My Life and Work
 Henry Ford
 In Collaboration With Samuel Crowther
+:doctype: book
+:toc:
 
-
-INTRODUCTION—WHAT IS THE IDEA?
+[preface]
+== INTRODUCTION—WHAT IS THE IDEA?
 
 
 We have only started on our development of our country—we have not as yet,
@@ -558,7 +560,7 @@ the subjects of these chapters.
 
 
 
-CHAPTER I
+== CHAPTER I
 
 
 THE BEGINNING OF BUSINESS
@@ -877,7 +879,7 @@ further to test out the design and material on the road.
 
 
 
-CHAPTER II
+== CHAPTER II
 
 
 WHAT I LEARNED ABOUT BUSINESS
@@ -1276,7 +1278,7 @@ the work in the best possible way.
 
 
 
-CHAPTER III
+== CHAPTER III
 
 
 STARTING THE REAL BUSINESS
@@ -1827,7 +1829,7 @@ and put into fabrication the kind of car that I wanted to build.
 
 
 
-CHAPTER IV
+== CHAPTER IV
 
 
 THE SECRET OF MANUFACTURING AND SERVING
@@ -2223,7 +2225,7 @@ and more of the car.
 
 
 
-CHAPTER V
+== CHAPTER V
 
 
 GETTING INTO PRODUCTION
@@ -2629,7 +2631,7 @@ day!
 
 
 
-CHAPTER VI
+== CHAPTER VI
 
 
 MACHINES AND MEN
@@ -2985,7 +2987,7 @@ always put all of mind and will into even the most trivial of tasks.
 
 
 
-CHAPTER VII
+== CHAPTER VII
 
 
 THE TERROR OF THE MACHINE
@@ -3376,7 +3378,7 @@ Industry needs not exact a human toll.
 
 
 
-CHAPTER VIII
+== CHAPTER VIII
 
 
 WAGES
@@ -3814,7 +3816,7 @@ Without changing the principle we have changed the method of payment.
 
 
 
-CHAPTER IX
+== CHAPTER IX
 
 
 WHY NOT ALWAYS HAVE GOOD BUSINESS?
@@ -4104,7 +4106,7 @@ the practical application of the principles of service and finance.
 
 
 
-CHAPTER X
+== CHAPTER X
 
 
 HOW CHEAPLY CAN THINGS BE MADE?
@@ -4556,7 +4558,7 @@ And all of this can always be done.
 
 
 
-CHAPTER XI
+== CHAPTER XI
 
 
 MONEY AND GOODS
@@ -4928,7 +4930,7 @@ inside than from the outside.
 
 
 
-CHAPTER XII
+== CHAPTER XII
 
 
 MONEY—MASTER OR SERVANT?
@@ -5377,7 +5379,7 @@ Let us see if a beginning toward a better method cannot be made.
 
 
 
-CHAPTER XIII
+== CHAPTER XIII
 
 
 WHY BE POOR?
@@ -5700,7 +5702,7 @@ We are not fully serving.
 
 
 
-CHAPTER XIV
+== CHAPTER XIV
 
 
 THE TRACTOR AND POWER FARMING
@@ -6097,7 +6099,7 @@ we have had in manufacturing during the last twenty.
 
 
 
-CHAPTER XV
+== CHAPTER XV
 
 
 WHY CHARITY?
@@ -6552,7 +6554,7 @@ coddling. It is a drug. Stand up and stand out; let weaklings take charity.
 
 
 
-CHAPTER XVI
+== CHAPTER XVI
 
 
 THE RAILROADS
@@ -6879,7 +6881,7 @@ conditions why discuss the railroads as a business? Or as a service?
 
 
 
-CHAPTER XVII
+== CHAPTER XVII
 
 
 THINGS IN GENERAL
@@ -7414,7 +7416,7 @@ faces and criticize them behind their backs.
 
 
 
-CHAPTER XVIII
+== CHAPTER XVIII
 
 
 DEMOCRACY AND INDUSTRY
@@ -7808,7 +7810,7 @@ Caruso's gifts have still remained his own?
 
 
 
-CHAPTER XIX
+== CHAPTER XIX
 
 
 WHAT WE MAY EXPECT
