@@ -4194,35 +4194,28 @@ pay, or can pay, for what we have to sell. And what has resulted from that
 policy is best evidenced by comparing the price of the touring car and the
 production.
 
-YEAR PRICE PRODUCTION
-
-1909-10 $950 18,664 cars
-
-1910-11 $780 34,528 "
-
-1911-12 $690 78,440 "
-
-1912-13 $600 168,220 "
-
-1913-14 $550 248,307 "
-
-1914-15 $490 308,213 "
-
-1915-16 $440 533,921 "
-
-1916-17 $360 785,432 "
-
-1917-18 $450 706,584 "
-
-1918-19 $525 533,706 "
+[width="90%", frame="topbot",options="header"]
+|=========================
+|YEAR | PRICE | PRODUCTION
+|1909-10 | $950 | 18,664 cars
+|1910-11 | $780 | 34,528 "
+|1911-12 | $690 | 78,440 "
+|1912-13 | $600 | 168,220 "
+|1913-14 | $550 | 248,307 "
+|1914-15 | $490 | 308,213 "
+|1915-16 | $440 | 533,921 "
+|1916-17 | $360 | 785,432 "
+|1917-18 | $450 | 706,584 "
+|1918-19 | $525 | 533,706 "
+|========================
 
 (The above two years were war years and the factory was in war work).
 
-
-
-1919-20 $575 to $440 996,660 "
-
-1920-21 $440 to $355 1,250,000 "
+[width="90%", frame="topbot"]
+|=========================
+|1919-20 | $575 to $440 | 996,660 "
+|1920-21 | $440 to $355 | 1,250,000 "
+|=========================
 
 
 
@@ -5084,38 +5077,23 @@ $27,300,000 more than we needed to wipe out all our indebtedness. That is what
 boring into the business did for us! This amount came to us in these items:
 
 
+[cols="<,>", width="90%", frame="topbot"]
+|==================================
+|Cash on hand, January | $20,000,000
+|Stock on hand turned into cash, January 1 to April 1 | $24,700,000
 
-Cash on hand, January $20,000,000
+|Speeding up transit of goods released | $28,000,000
 
+|Collected from agents in foreign countries | $3,000,000
 
+|Sale of by-products |  $3,700,000
 
-Stock on hand turned into
+|Sale of Liberty Bonds | $7,900,000
 
-cash, January 1 to April 1 $24,700,000
+| | -------------
 
-
-
-Speeding up transit of
-
-goods released $28,000,000
-
-
-
-Collected from agents
-
-in foreign countries $3,000,000
-
-
-
-Sale of by-products $3,700,000
-
-
-
-Sale of Liberty Bonds $7,900,000
-
-+++-------------+++
-
-TOTAL $87,300,000
+|TOTAL | $87,300,000
+|==================================
 
 
 
