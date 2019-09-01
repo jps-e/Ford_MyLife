@@ -1797,7 +1797,7 @@ industry.
 The bond is yours for the asking, so do not allow yourself to be sold inferior
 cars at extravagant prices because of any statement made by this "Divine" body.
 
-N. B.—This fight is not being waged by the Ford Motor Company without the
++++N+++. B.—This fight is not being waged by the Ford Motor Company without the
 advice and counsel of the ablest patent attorneys of the East and West.
 
 We thought that the bond would give assurance to the buyers—that they
@@ -5149,7 +5149,7 @@ Sale of by-products $3,700,000
 
 Sale of Liberty Bonds $7,900,000
 
--------------
++++-------------+++
 
 TOTAL $87,300,000
 
