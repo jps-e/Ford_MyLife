@@ -1,0 +1,6 @@
+Project to add index and high resolution images to
+the version of_My Life and Work_ by Henry Ford at
+https://www.mobileread.com/forums/showthread.php?t=36503
+
+`ebook-convert "Ford, Henry - My Life and Work.epub" Ford_MyLife.txt`
+
